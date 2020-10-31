@@ -1,0 +1,12 @@
+G:\Lab 3\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+G:\Lab 3\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+G:\Lab 3\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+G:\Lab 3\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+G:\Lab 3\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+G:\Lab 3\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+G:\Lab 3\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+G:\Lab 3\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+G:\Lab 3\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+G:\Lab 3\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+G:\Lab 3\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+G:\Lab 3\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
